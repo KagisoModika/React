@@ -1,0 +1,11 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "React course with Bob Ziroll (sp).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kagiso Modika",
+  "license": "ISC"
+}
