@@ -1,10 +1,22 @@
-header {
+.NavBar {
+    width: 100%;
+    border-bottom: 1px solid #dcdcdc;
+    padding: 0;
+    margin: 0;
+}
+
+.NavBar header {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    padding: 0 5px;
+    margin: 0;
 }
 
 .Nav-logo {
     width: 60px;
+}
+
+.MainContent {
+    margin: 0 auto;
+    width: 100%;
 }
