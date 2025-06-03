@@ -16,7 +16,12 @@
     width: 60px;
 }
 
+.Nav-menu {
+    padding: 0 20px;
+}
+
 .MainContent {
     margin: 0 auto;
+    padding: 0 40px;
     width: 100%;
 }
